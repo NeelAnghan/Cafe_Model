@@ -1,0 +1,5 @@
+module.exports.Cafe = require("./cafe_model")
+module.exports.Product = require("./product_model")
+module.exports.Receipe = require("./receipe_model")
+module.exports.Worker = require("./worker_model")
+module.exports.Concert = require("./concert_model")
