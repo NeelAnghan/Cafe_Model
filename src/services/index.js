@@ -1,5 +1,0 @@
-module.exports.cafe_Service = require("./cafe_services")
-module.exports.product_Services = require("./product_services")
-module.exports.receipe_Services = require("./receipe_services")
-module.exports.concert_Services = require("./concert_services")
-module.exports.worker_Services = require("./worker_services")
